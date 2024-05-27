@@ -8,4 +8,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="ChallengeApp.Tests">
+      <HintPath>..\ChallengeApp.Tests\ChallengeApp.Tests\obj\Debug\net8.0\ChallengeApp.Tests.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
